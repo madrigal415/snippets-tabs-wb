@@ -1,4 +1,7 @@
 .wrapper {
+    display: grid;
+    justify-items: center;
+
     min-height: 300px;
     width: 60%;
 }
